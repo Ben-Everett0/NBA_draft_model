@@ -8,7 +8,7 @@ Shiny app can be accessed here: https://ben-everett.shinyapps.io/NBA_Draft_Model
 Post with some thoughts on this year's draft can be found here: 
 
 ### Data Sources
-Majority of the data and initial methodology came from Jeremias Engelmann (See 'jedraftdata.csv' for original data file): 
+Majority of the data and initial methodology came from Jeremias Engelmann: 
 https://www.roycewebb.com/p/how-to-build-an-nba-draft-model
 
 Player Role specifications came from Bart Torvik: 
