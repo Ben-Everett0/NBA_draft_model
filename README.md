@@ -5,7 +5,7 @@ NBA draft model predicting NBA impact (xRAPM) and contributions (Win Shares) for
 ### Results and Analysis
 Shiny app can be accessed here: https://ben-everett.shinyapps.io/NBA_Draft_Model/
 
-Post with some thoughts on this year's draft can be found here: 
+Post with some thoughts on this year's draft can be found here: https://www.linkedin.com/pulse/two-nba-draft-models-some-thoughts-2026-class-ben-everett-p6cuc/
 
 ### Data Sources
 Majority of the data and initial methodology came from Jeremias Engelmann: 
